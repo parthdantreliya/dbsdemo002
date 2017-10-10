@@ -1,5 +1,5 @@
 <?php
-class $person
+class person
 {
 var $personID;
 var $firstname;
